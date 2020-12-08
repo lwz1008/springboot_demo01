@@ -1,0 +1,8 @@
+server:
+  port: 9002
+  servlet:
+    context-path: /demo-test
+
+offcn:
+  ip: 127.0.0.1
+  port: 9999
