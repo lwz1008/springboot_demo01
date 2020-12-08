@@ -40,7 +40,7 @@ public class TestController {
         Car car1 = new Car(1L,"Benz",400000,new Date());
         Car car2 = new Car(2L,"BMW",500000,new Date());
         Car car3 = new Car(3L,"toyo",600000,new Date());
-        Car car4 = new Car(4L,"HongQi",700000,new Date());
+        Car car4 = new Car(5L,"HongQi",700000,new Date());
         List<Car> list= new ArrayList<>();
         list.add(car1);
         list.add(car2);
